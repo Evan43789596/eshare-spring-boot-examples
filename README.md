@@ -83,3 +83,13 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 
 **[Spring Boot 实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/spring-boot-opensource-favorites.html)**
 
+---
+
+> 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/Evan43789596/eshare-spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+
+关注公众号：Eshare分享
+
+![avatar](/image/qrcode_for_gh_8b8c2e52934a_430.png)
+
+原作者公众号：纯洁的微笑
+![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
